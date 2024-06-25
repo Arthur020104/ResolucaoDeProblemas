@@ -1,61 +1,24 @@
-# Neps
+# Repositório de Exercícios de Programação
 
-Este repositório contém uma coleção de soluções para exercícios de resolução de problemas. Abaixo está a descrição do conteúdo de cada arquivo presente no repositório.
+Este repositório contém soluções para diversos exercícios de programação em C, C++ e Python. Os exercícios abordam diferentes tópicos e problemas, oferecendo uma ampla gama de exemplos para estudo e prática.
 
-## C++
+## Estrutura do Repositório
 
-### CamisetasDaOlimpiada.cpp
+- **C/**
+  - `Consecutivos.c`: Este programa encontra a maior sequência de números consecutivos iguais em uma lista de inteiros.
+  - `FitaColorida.c`: Este programa ajusta os valores de uma fita colorida de acordo com as regras específicas fornecidas.
+  - `Lampadas.c`: Este programa simula o funcionamento de duas lâmpadas que podem ser ligadas e desligadas com base em entradas de controle.
+  - `QuadradoMagico.c`: Este programa verifica se uma matriz quadrada é um quadrado mágico, onde as somas das linhas, colunas e diagonais são iguais.
+  - `Telefone.c`: Este programa converte letras de um número de telefone em seus respectivos números.
 
-Este arquivo contém a resolução do problema de distribuição de camisetas da Olimpíada. Ele implementa uma classe `Camisa` para representar camisetas de diferentes tamanhos e quantidades, e então verifica se é possível satisfazer a demanda de camisetas de dois tamanhos diferentes.
+- **C++/**
+  - `CamisetasDaOlimpiada.cpp`: Este programa gerencia a distribuição de camisetas de tamanhos diferentes para participantes de uma Olimpíada.
+  - `Costa.cpp`: Este programa calcula a quantidade de células de terra que estão na "costa" de uma matriz representando um mapa.
+  - `EuAprendiMergeSort.cpp`: Este programa implementa o algoritmo de ordenação Merge Sort.
+  - `PalavrasMaldosas.cpp`: Este programa cria uma "palavra maldosa" baseada em um conjunto de strings.
+  - `Primo.cpp`: Este programa verifica se um número é primo.
+  - `Torre.cpp`: Este programa calcula o peso máximo de uma torre baseada em uma matriz de pesos.
+  - `TrocoEmMoedas.cpp`: Este programa calcula a quantidade mínima de moedas necessárias para dar um determinado troco.
 
-### Costa.cpp
-
-Neste arquivo, você encontrará a solução para um problema que envolve identificar se um ponto na matriz está na borda de uma área contígua de caracteres específicos.
-
-### EuAprendiMergeSort.cpp
-
-Aqui está a implementação do algoritmo de ordenação Merge Sort em C++. Ele recebe um array e o ordena de forma crescente usando o algoritmo de divisão e conquista.
-
-### PalavrasMaldosas.cpp
-
-Este arquivo resolve um problema que envolve manipulação de strings para encontrar uma "palavra média" com base em uma lista de palavras fornecida.
-
-### Primo.cpp
-
-Neste arquivo, você encontrará a implementação de uma função para verificar se um número é primo ou não.
-
-### torre.cpp
-
-Este arquivo contém a solução para um problema de encontrar a configuração de torres que maximiza o peso, dadas certas regras de distribuição.
-
-### TrocoEmMoedas.cpp
-
-Aqui está a solução para um problema de cálculo de troco usando um conjunto específico de moedas.
-
-## C
-
-### Consecutivos.c
-
-Este arquivo resolve um problema que envolve encontrar a sequência de números consecutivos mais longa em uma lista.
-
-### FitaColorida.c
-
-Neste arquivo, você encontrará a solução para um problema que envolve modificar uma lista de números de acordo com regras específicas.
-
-### Lampadas.c
-
-Aqui está a solução para um problema de controle de lâmpadas em um circuito, alternando seu estado com base em uma entrada fornecida.
-
-### QuadradoMagico.c
-
-Este arquivo resolve um problema que envolve verificar se uma matriz quadrada é um quadrado mágico ou não.
-
-### Telefone.c
-
-Neste arquivo, você encontrará a solução para um problema de conversão de letras em números de telefone.
-
-## Python
-
-### SomaDeCasa.py
-
-Aqui está a solução em Python para um problema que envolve encontrar pares de números cuja soma seja igual a um valor específico.
+- **Python/**
+  - `SomaDeCasa.py`: Este programa encontra dois números em uma lista que somam um valor alvo fornecido.
