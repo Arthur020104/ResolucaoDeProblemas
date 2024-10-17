@@ -20,6 +20,6 @@ Este repositório contém soluções para diversos exercícios de programação 
   - [`Torre.cpp`](https://neps.academy/br/exercise/45): Este programa calcula o peso máximo de uma torre baseada em uma matriz de pesos.
   - [`TrocoEmMoedas.cpp`](https://neps.academy/br/exercise/143): Este programa calcula a quantidade mínima de moedas necessárias para dar um determinado troco.
   - [`Fusoes.cpp`](https://neps.academy/br/exercise/264): Este programa gerencia um conjunto de ponteiros e instituições, permitindo a comparação e fusão entre eles.
-
+  - [`TopKFrequentElements.cpp`](https://leetcode.com/problems/top-k-frequent-elements/): Problema: Dado um array de inteiros, retorne os k elementos mais frequentes. Resolução: Utilizei uma estrutura personalizada para contar frequências e um conjunto para identificar elementos únicos, retornando os k mais frequentes.
 - **Python**
   - [`SomaDeCasa.py`](https://neps.academy/br/exercise/255): Este programa encontra dois números em uma lista que somam um valor alvo fornecido.
